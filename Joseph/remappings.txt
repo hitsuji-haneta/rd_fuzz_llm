@@ -1,0 +1,2 @@
+solidity-examples/=lib/solidity-examples/contracts/
+@openzeppelin/=lib/openzeppelin-contracts/
